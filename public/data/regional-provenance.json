@@ -1,0 +1,14 @@
+{
+  "source": "OpenStreetMap contributors",
+  "license": "ODbL 1.0",
+  "endpoint": "https://api.openstreetmap.org/api/0.6/map.json?bbox=-88.44,18.63,-88.365,18.725",
+  "bbox": [
+    18.63,
+    -88.44,
+    18.725,
+    -88.365
+  ],
+  "retrievedAt": "2026-10-27T18:04:50.190Z",
+  "method": "One regional Map API request; Overpass timed out",
+  "generator": "openstreetmap-cgimap 2.1.0 (544246 spike-06.openstreetmap.org)"
+}
